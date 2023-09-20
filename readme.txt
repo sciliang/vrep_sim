@@ -1,6 +1,4 @@
 1、安装vrep
-网址 https://www.coppeliarobotics.com/downloads
-下载 ubuntu18.04 对应的版本就可以
 正常的话解压就可以用
 ./coppeliasim.sh 正常可以直接打开软件
 然后选择工程中的，我调好的小车模型
